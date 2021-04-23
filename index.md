@@ -9,7 +9,6 @@ backgroundImage: url('hero-background.jpg')
 <!-- _class:  lead -->
 ![ invert ](cssc3.png) ![ width:300 ](UIZ.png)
 
-<!-- ![bg  ](github.jpg) -->
 
 # <!-- fit --> ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 # <!-- fit --> Introduction to git and Github 
@@ -54,9 +53,13 @@ paginate: true
 ---
 
 #### 2. Commun Software Engineers Problems
+
 * Communication
+
 * Working with Another Person’s Code
+
 * Backup
+
 * Logging
 
 ---
