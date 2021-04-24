@@ -112,7 +112,7 @@ The two tasks are shown more or less in parallel. Task B depends on
 Task A starting.
  -->
 #### Start-Start Dependency
-![](start_to_finish.png)
+![](start_to_start.png)
 
 ---
 <!-- 
